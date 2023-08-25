@@ -3,7 +3,7 @@ import World from "./World";
 function App() {
   return (
     <div className="h-screen">
-      <World width={20} height={10} />
+      <World width={100} height={100} />
     </div>
   );
 }
